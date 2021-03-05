@@ -5,12 +5,14 @@ Version: 2.0
 
 Date: 06/30/2020
 
-By 
+By
+
    Dr. Jinhai Zhang, zjh@mail.iggcas.ac.cn
    
    Dr. Chengliang Xie, clx@cugb.edu.cn
 
-Acknowledgments: 
+Acknowledgments:
+
    RBF function is from Matlab Central by Alex Chirokov (alex.chirokov@gmail.com). We also thank  C.D. Saragiotis (csar@auth.gr), Y.M. Altman (altmany@gmail.com) and F.J. Simons (fjsimons@alum.mit.edu) for their contributions on codes associated with the sac format files. 
 
 Free for personal and non-commercial use.
