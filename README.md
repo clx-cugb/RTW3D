@@ -54,7 +54,7 @@ NOTES:
 
 (4) For general cases, we set the smooth parameter as 0 for RBF method, and this could be user defined in RTW3D.m by searching 'smooth='
 
-(5) For 3D RBF interpolation, the default setting is 'all in' (i.e. the entire dataset is loaded at one time). However, for general cases, this might be limited by available computer memory, and calculation has to be divided into 'local' 3D interpolations. The window length could be defined in RTW3D.m by searching 'winLen='
+(5) For 3D RBF interpolation, the default setting is 'all in' (i.e. the entire dataset is loaded at one time). However, for general cases, this might be limited by available computer memory. Calculation has to be divided into 'local' 3D interpolations. The window length for each 'local dataset' could be defined in RTW3D.m by searching 'winLen='
 
 ===========================================================================
 
