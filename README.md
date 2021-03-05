@@ -56,7 +56,7 @@ NOTES:
 
 ==================================================================================
 
-Reference:
+References:
 
 [1] Buhmann, M.D. (2003), Radial Basis Functions: Theory and Implementations, Cambridge University Press.
 
