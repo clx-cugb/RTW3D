@@ -47,8 +47,7 @@ NOTES:
 
 (2) Several RBF functions are available for present version: 
     "Gaussian, Multiquadrics, Linear, Cubic and Thinplate"
-    One could choose or redefine appropriate function
-    *** See comments in code.
+    One could choose or redefine appropriate function. See comments in code.
 
 (3) We assume that the waveforms have been aligned according to their P-wave arrival times.
     The input data could be pre-evaluated with function "preEval".
