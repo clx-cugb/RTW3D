@@ -18,7 +18,7 @@ We could not guarantee the codes work well all the time.
 
 Thanks for feedback of any bug or suggestion.
 
-==================================================================================
+===========================================================================
 
 Main script: RTW3D.m
 
@@ -36,7 +36,7 @@ Main script: RTW3D.m
     
          Output seismic stations in sac format, i.e. Regularized stations
              
-==================================================================================
+===========================================================================
 
 NOTES:
 
@@ -54,7 +54,7 @@ NOTES:
 
 (5) For 3D RBF interpolation, the default setting is 'all in' (i.e. whole dataset is involved in once calculation). However, for general cases, this might be limited by available computer memory, and dataset has to be divided into 'local' 3D interpolations. The window length could be defined in RTW3D.m by searching 'winLen='
 
-==================================================================================
+===========================================================================
 
 References:
 
