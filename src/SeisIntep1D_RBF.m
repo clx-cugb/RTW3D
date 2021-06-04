@@ -40,5 +40,5 @@ op=rbfcreate(nodesLoc(1:Dim,:),nodesValue,'RBFFunction',rbf,'RBFConstant',const,
 % Checking, i.e. Show difference between nodes (before and after interpolation) --> Validity of RBF
 % rbfcheck(op);
 
-XI(:)=inteX;
+XI=inteX;
 ResIntep=rbfinterp(XI(:)',op);
