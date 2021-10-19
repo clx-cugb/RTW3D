@@ -70,6 +70,6 @@ References:
 
 [5] Zhang, J., and T. Zheng (2015), Receiver Function Imaging with Reconstructed Wavefields from Sparsely Scattered Stations, Seismological Research Letters, 86(1), 165-172, doi:10.1785/0220140028.
 
-[6] Xie,C., Y. Fang, and J. Zhang (2021), Regularizing the 3D teleseismic wavefield for receiver function imaging using a radial basis function. Geophysical Journal International (In revision)
+[6] Xie,C., Y. Fang, and J. Zhang (2021), Regularizing the 3D teleseismic wavefield for receiver function imaging using a radial basis function. Geophysical Journal International (In revision).
 
 [7] Chirokov, A.(2006), Scattered Data Interpolation and Approximation using Radial Base Functions, edited, MATLAB Central File Exchange.
