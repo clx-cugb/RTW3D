@@ -136,7 +136,16 @@ phi       = options.('rbfphi');
 
 A=rbfAssemble(x, phi, options.('RBFConstant'), options.('RBFSmooth'));
 
-b=[y'; zeros(nXDim+1, 1)];                       
+b=[y'; zeros(nXDim+1, 1)];
+
+% Calculate the condition number of A to evaulate singularity of A
+condNum=cond(A);
+if condNum>1E10
+    disp('The condition number is:');
+    disp(condNum);
+    disp('The matrix is singular to working precision');
+    disp('Checkcing the shape parameters or input dataset');
+end
 
 %inverse
 rbfcoeff=A\b;
