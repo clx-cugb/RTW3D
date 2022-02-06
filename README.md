@@ -59,17 +59,16 @@ NOTES:
 ===========================================================================
 
 References:
+[1] Chengliang Xie, Yuanyuan Fang, Jinhai Zhang, Regularizing the 3-D teleseismic wavefield for receiver function imaging using a radial basis function, Geophysical Journal International, Volume 229, Issue 2, May 2022, Pages 1255–1267, https://doi.org/10.1093/gji/ggab536
 
-[1] Buhmann, M.D. (2003), Radial Basis Functions: Theory and Implementations, Cambridge University Press.
+[2] Buhmann, M.D. (2003), Radial Basis Functions: Theory and Implementations, Cambridge University Press.
 
-[2] Fasshauer, G.E. (2007), Meshfree Approximation Methods with Matlab, World Scientific Publishers.
+[3] Fasshauer, G.E. (2007), Meshfree Approximation Methods with Matlab, World Scientific Publishers.
 
-[3] Hu, S., X. Jiang, L. Zhu, and H. Yao (2019), Wavefield Reconstruction of Teleseismic Receiver Function with the Stretching‐and‐Squeezing Interpolation Method, Seismological Research Letters, 90(2A), 716-726, doi:10.1785/0220180197.
+[4] Hu, S., X. Jiang, L. Zhu, and H. Yao (2019), Wavefield Reconstruction of Teleseismic Receiver Function with the Stretching‐and‐Squeezing Interpolation Method, Seismological Research Letters, 90(2A), 716-726, doi:10.1785/0220180197.
 
-[4] Song, P., X. Zhang, Y. Liu, and J. Teng (2017), Moho imaging based on receiver function analysis with teleseismic wavefield reconstruction: Application to South China, Tectonophysics, 718, 118-131, doi:10.1016/j.tecto.2017.05.031.
+[5] Song, P., X. Zhang, Y. Liu, and J. Teng (2017), Moho imaging based on receiver function analysis with teleseismic wavefield reconstruction: Application to South China, Tectonophysics, 718, 118-131, doi:10.1016/j.tecto.2017.05.031.
 
-[5] Zhang, J., and T. Zheng (2015), Receiver Function Imaging with Reconstructed Wavefields from Sparsely Scattered Stations, Seismological Research Letters, 86(1), 165-172, doi:10.1785/0220140028.
-
-[6] Xie,C., Y. Fang, and J. Zhang (2021), Regularizing the 3D teleseismic wavefield for receiver function imaging using a radial basis function. Geophysical Journal International (In revision).
+[6] Zhang, J., and T. Zheng (2015), Receiver Function Imaging with Reconstructed Wavefields from Sparsely Scattered Stations, Seismological Research Letters, 86(1), 165-172, doi:10.1785/0220140028.
 
 [7] Chirokov, A.(2006), Scattered Data Interpolation and Approximation using Radial Base Functions, edited, MATLAB Central File Exchange.
