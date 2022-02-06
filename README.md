@@ -59,6 +59,7 @@ NOTES:
 ===========================================================================
 
 References:
+
 [1] Chengliang Xie, Yuanyuan Fang, Jinhai Zhang, Regularizing the 3-D teleseismic wavefield for receiver function imaging using a radial basis function, Geophysical Journal International, Volume 229, Issue 2, May 2022, Pages 1255–1267, https://doi.org/10.1093/gji/ggab536
 
 [2] Buhmann, M.D. (2003), Radial Basis Functions: Theory and Implementations, Cambridge University Press.
