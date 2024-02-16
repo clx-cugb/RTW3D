@@ -51,6 +51,7 @@ for i=1:nLst
     %[seis(:,numF),head(:,numF)]=readsac(filename,0,'1');
 
     % Check whether maximum normalization window(norm1) is less than total length of data
+    % 检查最大的正则窗是否大于数据的总长？
     if norm1>size(seis,1)
         error(sprintf('Ending index should be smaller than the maximum number of samples\n'));
     end
@@ -106,6 +107,8 @@ for i=1:nLst
     StN=round(StBand/srate(1)); % Index associated with StBand
     EdN=round(EdBand/srate(1)); % Index associated with EdBand
     % ***
+
+    
 
     %=====-------------------------------------------------------------------------=====
     % Evaluate each station and give suggestion 
